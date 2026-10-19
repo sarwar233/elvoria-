@@ -1,0 +1,13 @@
+{
+  "products": [
+    {"id":"case-1","name":"گوڵی بەهار","category":"گوڵ","model":"iPhone 15 / 15 Pro","price":25000,"image":"https://images.squarespace-cdn.com/content/v1/5b56aa1da2772c2408dab0e6/b1c65467-2625-4b79-91d8-1fefee925613/myra-pale-pink-floral-phone-cover.jpg?format=1000w"},
+    {"id":"case-2","name":"شەوی ئەستێرەکان","category":"هونەری","model":"Samsung S24 / S24+","price":28000,"image":"https://burga.com/cdn/shop/files/CB_01_video-thumb_2d388c43-672e-4203-b007-662fee8bdfcf.jpg?v=1742772294&width=512"},
+    {"id":"case-3","name":"سەوزی ئارام","category":"سادە","model":"iPhone 14 / 14 Pro","price":22000,"image":"https://www.nudient.jp/cdn/shop/files/00-000-0050-0004-1_791d0658-dee8-4179-8857-5807c828ec27.jpg?v=1708096768"},
+    {"id":"case-4","name":"ناوی تۆ","category":"تایبەت","model":"بۆ جۆرە جیاوازەکانی مۆبایل","price":32000,"image":"https://i.etsystatic.com/47644286/r/il/8b7c2c/5798559576/il_fullxfull.5798559576_i9ia.jpg"},
+    {"id":"case-5","name":"ئاسمانی شین","category":"هونەری","model":"iPhone 13 / 13 Pro","price":24000,"image":"https://echomestore.com/cdn/shop/files/18007863452070467361_2048.jpg?v=1727317184&width=1946"},
+    {"id":"case-6","name":"گوڵی ڕەشەبا","category":"گوڵ","model":"Samsung A55 / A35","price":26000,"image":"https://coconut-lane.com/cdn/shop/files/ditsypink1_2565aa86-3656-48d1-9cd9-760263f9a38d_1800x1800.png?v=1722324326"},
+    {"id":"case-7","name":"زێڕی سادە","category":"سادە","model":"iPhone 15 Plus / Pro Max","price":23000,"image":"https://f.nooncdn.com/p/pzsku/Z5FA9CBCA5BF59D8C12F9Z/45/_/1739427453/ec552b10-3a86-499a-b05b-50f62f5dea16.jpg?format=webp&width=800"},
+    {"id":"case-8","name":"دنیای خەون","category":"هونەری","model":"Xiaomi 14 / 14 Ultra","price":27000,"image":"https://i.etsystatic.com/53231060/r/il/3373c2/7289550904/il_fullxfull.7289550904_nmny.jpg"}
+  ],
+  "links": []
+}
